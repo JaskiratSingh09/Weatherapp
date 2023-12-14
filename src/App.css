@@ -1,0 +1,22 @@
+.searchBox{
+  display: flex;
+  justify-content: space-between;
+}
+.logos{
+margin-top: 46px;
+  display: flex;
+  justify-content:space-between;
+  position: relative;
+ 
+}
+.humdity{
+display:flex;
+}
+.mainbox{
+  margin-top:20px;
+  background-color: aliceblue;
+  width: 460px;
+  border: 2px solid black;
+  border-radius: 20px;
+  height: 570px;
+}
